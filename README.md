@@ -5,7 +5,7 @@ A real-time weather forecast website with a clean, responsive design. Fetches li
 This project is a real-time weather web application that fetches and displays the latest weather data for any city around the globe. It is designed with a clean, responsive interface and powered by a live weather API to ensure accurate and up-to-date information.
 
 ✨ Features
-Live Weather Data — Fetches real-time updates from a reliable weather API.
+Live Weather Data — Fetches real-time updates from a reliable weather API .
 City Search — Get weather details for any location instantly.
 
 Detailed Forecast — Displays:
